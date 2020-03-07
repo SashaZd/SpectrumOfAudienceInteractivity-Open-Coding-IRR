@@ -1,73 +1,73 @@
-Tag Kappa Fleiss Alpha Scotts
-|dict_keys(['#None', '#active'])| 1.0 1.0 1.0 1.0
-|dict_keys(['#None', '#contractofcare'])| 1.0 1.0 1.0 1.0
-|dict_keys(['#None', '#multisensory'])| 1.0 1.0 1.0 1.0
-|dict_keys(['#None', '#marketing'])| 0.7897959183673467 0.7897959183673467 0.7908163265306123 0.789795918367347
-|dict_keys(['#None', '#theme'])| 1.0 1.0 1.0 1.0
-|dict_keys(['#None', '#digital'])| 1.0 1.0 1.0 1.0
-|dict_keys(['#None', '#interactionengineering'])| 1.0 1.0 1.0 1.0
-|dict_keys(['#None', '#audienceperforming'])| 1.0 1.0 1.0 1.0
-|dict_keys(['#None', '#presence'])| 1.0 1.0 1.0 1.0
-|dict_keys(['#None', '#narrativecomplexity'])| 0.6622950819672139 0.6622950819672139 0.6633825944170773 0.6617405582922826
-|dict_keys(['#None', '#space'])| 0.790224032586558 0.790224032586558 0.7908163265306123 0.789795918367347
-|dict_keys(['#None', '#attention'])| 0.6622950819672139 0.6622950819672139 0.6633825944170773 0.6617405582922826
-|dict_keys(['#None', '#moodengineering'])| 1.0 1.0 1.0 1.0
-|dict_keys(['#None', '#publicprivate'])| 1.0 1.0 1.0 1.0
-|dict_keys(['#narrative', '#None'])| 0.9295967190704033 0.9295967190704033 0.929890560875513 0.9295485636114912
-|dict_keys(['#None', '#experiencespace'])| 1.0 1.0 1.0 1.0
-|dict_keys(['#None', '#companygoals'])| 1.0 1.0 1.0 1.0
-|dict_keys(['#None', '#immersion'])| 1.0 1.0 1.0 1.0
-|dict_keys(['#None', '#tech'])| 0.9544851966416261 0.9544851966416261 0.9546961325966851 0.9544751381215469
-|dict_keys(['#None', '#advantage'])| 1.0 1.0 1.0 1.0
-|dict_keys(['#None', '#time'])| 1.0 1.0 1.0 1.0
-|dict_keys(['#None', '#inspiration'])| 1.0 1.0 1.0 1.0
-|dict_keys(['#None', '#interaction'])| 1.0 1.0 1.0 1.0
-|dict_keys(['#None', '#spectrum'])| 1.0 1.0 1.0 1.0
-|dict_keys(['#None', '#authorcreatorgoaltension'])| 1.0 1.0 1.0 1.0
-|dict_keys(['#None', '#discoverymoment'])| 1.0 1.0 1.0 1.0
-|dict_keys(['#None', '#goals'])| 1.0 1.0 1.0 1.0
-|dict_keys(['#None', '#physicallimitation'])| 1.0 1.0 1.0 1.0
-|dict_keys(['#None', '#personalization'])| 1.0 1.0 1.0 1.0
-|dict_keys(['#None', '#audienceexpectation'])| 1.0 1.0 1.0 1.0
-|dict_keys(['#None', '#connection'])| 1.0 1.0 1.0 1.0
-|dict_keys(['#None', '#novelty'])| 1.0 1.0 1.0 1.0
-|dict_keys(['#None', '#culture'])| 1.0 1.0 1.0 1.0
-|dict_keys(['#None', '#disadvantage'])| 1.0 1.0 1.0 1.0
-|dict_keys(['#None', '#process'])| 1.0 1.0 1.0 1.0
-|dict_keys(['#None', '#creatingmagic'])| 1.0 1.0 1.0 1.0
-|dict_keys(['#None', '#mr'])| 1.0 1.0 1.0 1.0
-|dict_keys(['#None', '#engagement'])| 1.0 1.0 1.0 1.0
-|dict_keys(['#None', '#interactiondisadvantages'])| 1.0 1.0 1.0 1.0
-|dict_keys(['#None', '#sensory'])| 1.0 1.0 1.0 1.0
-|dict_keys(['#None', '#storytelling'])| 0.9359054138145613 0.9359054138145613 0.9361967009025832 0.93588546529723
-|dict_keys(['#None', '#cues'])| 1.0 1.0 1.0 1.0
-|dict_keys(['#None', '#morethanspectrum'])| 1.0 1.0 1.0 1.0
-|dict_keys(['#None', '#socialengineering'])| 0.6622950819672139 0.6622950819672139 0.6633825944170773 0.6617405582922826
-|dict_keys(['#transmedia', '#None'])| 0.7952286282306161 0.7952286282306161 0.7960199004975125 0.7950248756218907
-|dict_keys(['#None', '#outcomes'])| 1.0 1.0 1.0 1.0
-|dict_keys(['#None', '#visualdesign'])| 0.0 0.0 0.0 -0.0048780487804927376
-|dict_keys(['#None', '#narrativegoal'])| 0.6622950819672139 0.6622950819672139 0.6633825944170773 0.6617405582922826
-|dict_keys(['#None', '#authoringgoal'])| 1.0 1.0 1.0 1.0
-|dict_keys(['#theatre', '#None'])| 1.0 1.0 1.0 1.0
-|dict_keys(['#None', '#physicality'])| 1.0 1.0 1.0 1.0
-|dict_keys(['#None', '#designingfordisengagement'])| 1.0 1.0 1.0 1.0
-|dict_keys(['#None', '#meaningful'])| 0.8838782412626832 0.8838782412626832 0.8843767625493514 0.8838127467569092
-|dict_keys(['#None', '#values'])| 1.0 1.0 1.0 1.0
-|dict_keys(['#None', '#control'])| 0.9040074557315937 0.9040074557315937 0.9044289044289044 0.903962703962704
-|dict_keys(['#None', '#influenceperformers'])| 1.0 1.0 1.0 1.0
-|dict_keys(['#None', '#social'])| 0.0 0.0 0.0 -0.0048780487804927376
-|dict_keys(['#None', '#vrdisadvantage'])| 1.0 1.0 1.0 1.0
-|dict_keys(['#None', 'parks'])| 1.0 1.0 1.0 1.0
-|dict_keys(['#None', '#affordance'])| 0.9281228192602932 0.9281228192602932 0.9284467713787086 0.9280977312390926
-|dict_keys(['#None', '#agency'])| 1.0 1.0 1.0 1.0
-|dict_keys(['#None', '#design'])| 0.0 0.0 0.0 -0.0048780487804927376
-|dict_keys(['#None', '#context'])| 0.7952286282306161 0.7952286282306161 0.7960199004975125 0.7950248756218907
-|dict_keys(['#None', '#videogame'])| 1.0 1.0 1.0 1.0
-|dict_keys(['#None', '#vr'])| 1.0 1.0 1.0 1.0
-|dict_keys(['#None', '#constraints'])| 1.0 1.0 1.0 1.0
-|dict_keys(['#None', '#practicalchallenges'])| 1.0 1.0 1.0 1.0
-|dict_keys(['#None', '#cost'])| 1.0 1.0 1.0 1.0
-|dict_keys(['#None', '#gesamkunstwerk'])| 0.9040074557315937 0.9040074557315937 0.9044289044289044 0.903962703962704
-|dict_keys(['#None', '#emotion'])| 1.0 1.0 1.0 1.0
-|dict_keys(['#None', '#physical'])| 1.0 1.0 1.0 1.0
-Total 0.9191501526309402 0.9191501526309402 0.91929109251951 0.9188973905318001
+Tag;Kappa;Fleiss;Alpha;Scotts
+['#None', '#tech'];0.9544851966416261;0.9544851966416261;0.9546961325966851;0.9544751381215469
+['#None', '#space'];0.790224032586558;0.790224032586558;0.7908163265306123;0.789795918367347
+['#None', '#connection'];1.0;1.0;1.0;1.0
+['#None', '#cues'];1.0;1.0;1.0;1.0
+['#None', '#marketing'];0.7897959183673467;0.7897959183673467;0.7908163265306123;0.789795918367347
+['#None', '#agency'];1.0;1.0;1.0;1.0
+['#None', '#inspiration'];1.0;1.0;1.0;1.0
+['#None', '#videogame'];1.0;1.0;1.0;1.0
+['#None', '#socialengineering'];0.6622950819672139;0.6622950819672139;0.6633825944170773;0.6617405582922826
+['#None', '#physical'];1.0;1.0;1.0;1.0
+['#None', '#cost'];1.0;1.0;1.0;1.0
+['#None', '#morethanspectrum'];1.0;1.0;1.0;1.0
+['#None', '#designingfordisengagement'];1.0;1.0;1.0;1.0
+['#None', '#theme'];1.0;1.0;1.0;1.0
+['#None', '#context'];0.7952286282306161;0.7952286282306161;0.7960199004975125;0.7950248756218907
+['#None', '#active'];1.0;1.0;1.0;1.0
+['#None', '#companygoals'];1.0;1.0;1.0;1.0
+['#None', '#experiencespace'];1.0;1.0;1.0;1.0
+['#None', '#mr'];1.0;1.0;1.0;1.0
+['#None', '#attention'];0.6622950819672139;0.6622950819672139;0.6633825944170773;0.6617405582922826
+['#None', '#novelty'];1.0;1.0;1.0;1.0
+['#None', '#engagement'];1.0;1.0;1.0;1.0
+['#None', '#advantage'];1.0;1.0;1.0;1.0
+['#None', '#outcomes'];1.0;1.0;1.0;1.0
+['#None', '#authorcreatorgoaltension'];1.0;1.0;1.0;1.0
+['#theatre', '#None'];1.0;1.0;1.0;1.0
+['#None', '#physicallimitation'];1.0;1.0;1.0;1.0
+['#None', '#values'];1.0;1.0;1.0;1.0
+['#None', '#physicality'];1.0;1.0;1.0;1.0
+['#None', '#interactiondisadvantages'];1.0;1.0;1.0;1.0
+['#None', '#goals'];1.0;1.0;1.0;1.0
+['#narrative', '#None'];0.9295967190704033;0.9295967190704033;0.929890560875513;0.9295485636114912
+['#None', '#design'];0.0;0.0;0.0;-0.0048780487804927376
+['#None', '#narrativecomplexity'];0.6622950819672139;0.6622950819672139;0.6633825944170773;0.6617405582922826
+['#None', '#authoringgoal'];1.0;1.0;1.0;1.0
+['#None', '#meaningful'];0.8838782412626832;0.8838782412626832;0.8843767625493514;0.8838127467569092
+['#None', '#control'];0.9040074557315937;0.9040074557315937;0.9044289044289044;0.903962703962704
+['#None', '#publicprivate'];1.0;1.0;1.0;1.0
+['#None', '#affordance'];0.9281228192602932;0.9281228192602932;0.9284467713787086;0.9280977312390926
+['#None', '#narrativegoal'];0.6622950819672139;0.6622950819672139;0.6633825944170773;0.6617405582922826
+['#None', '#audienceexpectation'];1.0;1.0;1.0;1.0
+['#None', '#interactionengineering'];1.0;1.0;1.0;1.0
+['#transmedia', '#None'];0.7952286282306161;0.7952286282306161;0.7960199004975125;0.7950248756218907
+['#None', '#spectrum'];1.0;1.0;1.0;1.0
+['#None', '#culture'];1.0;1.0;1.0;1.0
+['#None', '#digital'];1.0;1.0;1.0;1.0
+['#None', '#audienceperforming'];1.0;1.0;1.0;1.0
+['#None', '#emotion'];1.0;1.0;1.0;1.0
+['#None', '#sensory'];1.0;1.0;1.0;1.0
+['#None', '#process'];1.0;1.0;1.0;1.0
+['#None', '#visualdesign'];0.0;0.0;0.0;-0.0048780487804927376
+['#None', '#disadvantage'];1.0;1.0;1.0;1.0
+['#None', '#discoverymoment'];1.0;1.0;1.0;1.0
+['#None', '#personalization'];1.0;1.0;1.0;1.0
+['#None', '#moodengineering'];1.0;1.0;1.0;1.0
+['#None', '#immersion'];1.0;1.0;1.0;1.0
+['#None', '#presence'];1.0;1.0;1.0;1.0
+['#None', '#gesamkunstwerk'];0.9040074557315937;0.9040074557315937;0.9044289044289044;0.903962703962704
+['#None', '#influenceperformers'];1.0;1.0;1.0;1.0
+['#None', '#constraints'];1.0;1.0;1.0;1.0
+['#None', '#storytelling'];0.9359054138145613;0.9359054138145613;0.9361967009025832;0.93588546529723
+['#None', '#practicalchallenges'];1.0;1.0;1.0;1.0
+['#None', '#creatingmagic'];1.0;1.0;1.0;1.0
+['#None', '#time'];1.0;1.0;1.0;1.0
+['#None', '#vrdisadvantage'];1.0;1.0;1.0;1.0
+['#None', '#contractofcare'];1.0;1.0;1.0;1.0
+['#None', 'parks'];1.0;1.0;1.0;1.0
+['#None', '#social'];0.0;0.0;0.0;-0.0048780487804927376
+['#None', '#vr'];1.0;1.0;1.0;1.0
+['#None', '#interaction'];1.0;1.0;1.0;1.0
+['#None', '#multisensory'];1.0;1.0;1.0;1.0
+Total;0.9191501526309402;0.9191501526309402;0.91929109251951;0.9188973905318003
